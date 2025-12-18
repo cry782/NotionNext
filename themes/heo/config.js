@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '跨境电商',
   HEO_HERO_TITLE_2: '知识与工具分享',
   HEO_HERO_TITLE_3: '1688333.xyz',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '新手小白',
+  HEO_HERO_TITLE_5: '也能玩转跨境电商！手把手教你从0到1！',
+  HEO_HERO_TITLE_LINK: 'https://1688333.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -38,7 +38,7 @@ const CONFIG = {
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
-  HEO_INFOCARD_GREETINGS: [
+ /*HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
@@ -46,7 +46,7 @@ const CONFIG = {
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
-  ],
+  ],*/
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
@@ -116,7 +116,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
