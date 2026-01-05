@@ -18,19 +18,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '跨境电商',
+  HEO_HERO_TITLE_1: '零成本副业',
   HEO_HERO_TITLE_2: '知识与工具分享',
   HEO_HERO_TITLE_3: '1688333.xyz',
-  HEO_HERO_TITLE_4: '新手小白',
-  HEO_HERO_TITLE_5: '也能玩转跨境电商',
+  HEO_HERO_TITLE_4: '没资金 不等待',
+  HEO_HERO_TITLE_5: '我们专注零成本验证',
   HEO_HERO_TITLE_LINK: 'https://1688333.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '学习专区', url: '/tag/学习专区' },
+  HEO_HERO_CATEGORY_1: { title: '资源中心', url: '/tag/资源中心' },
   HEO_HERO_CATEGORY_2: { title: '实用工具', url: '/tag/实用工具' },
-  HEO_HERO_CATEGORY_3: { title: '跨境资讯', url: '/tag/跨境资讯' },
+  HEO_HERO_CATEGORY_3: { title: '客户故事', url: '/tag/客户故事' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
