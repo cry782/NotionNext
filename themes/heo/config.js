@@ -28,7 +28,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '资源中心', url: '/tag/资源中心' },
+  HEO_HERO_CATEGORY_1: { title: '项目分区', url: '/tag/项目分区' },
   HEO_HERO_CATEGORY_2: { title: '实用工具', url: '/tag/实用工具' },
   HEO_HERO_CATEGORY_3: { title: '客户故事', url: '/tag/客户故事' },
 
